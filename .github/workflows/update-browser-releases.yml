@@ -1,6 +1,6 @@
 name: Update browser releases
 
-on:
+on: 
   workflow_dispatch:
 
   schedule:
