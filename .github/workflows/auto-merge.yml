@@ -16,3 +16,4 @@ jobs:
       target-repo: "mdn/browser-compat-data"
     secrets:
       GH_TOKEN: ${{ secrets.GH_TOKEN }}
+
